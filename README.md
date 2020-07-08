@@ -112,7 +112,9 @@ np.average(s_scores)
 Average model score when we use Support Vector Machine 
 
 Based on the score you can choose which model should be choosed for training .
-That's all Thank You!
+
+That's all  from my side.
+Thank You!
 
 
 
